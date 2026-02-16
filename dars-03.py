@@ -10,6 +10,12 @@ Created on Sat Feb 14 10:29:57 2026
 # xabar = ism + ' ' + str(yosh) + ' yoshda'
 # print(xabar)
 
+# ism = input("Iltimos ismizngizni kiriting: ")
+# yosh = int(input("Endi yoshingizni kiriting: "))
+# hisob = 100 - yosh
+# joriy_yil = 2026 + hisob
+# print(f"Siz {ism.title()} {hisob} yildan keyin, yani {joriy_yil}-yilda, 100 yoshda bo'lar ekansiz.")
+
 # t_yil = int(input("Tug'ilgan yilingizni kiriting: "))
 # yosh = 2026 - t_yil
 # print("Siz", yosh, "yoshdasiz.")
@@ -18,10 +24,6 @@ Created on Sat Feb 14 10:29:57 2026
 # kavadrat = son**2
 # kubi = son**3
 # print(f"{son} ning kvadrati {kavadrat}ga teng \n{son} ning kubi {kubi} ga teng.")
-
-# yosh = int(input("Yoshingizni kiriting>>> "))
-# t_yil = 2026 - yosh
-# print("Siz", t_yil, "yilda tug'ilgansiz")
 
 # a = float(input("Birinchi sonni kiriting: "))
 # b = float(input("Ikkinchi sonni kiriting: "))
